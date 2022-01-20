@@ -1,5 +1,6 @@
 # node-way-home
 
+<img src="https://badges.pufler.dev/visits/7anya/node-way-home?style=for-the-badge&color=red" /></a>
 
 ## Movie booking site- backend 
 
